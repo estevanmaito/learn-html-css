@@ -50,7 +50,7 @@ This book is divided into very small chapters, around 1 - 1 1/2 pages. Things ar
   - 34 - Meta tags
   - 35 - Validating HTML
 
-- Parte 2: CSS
+- Part 2: CSS
 
   - 36 - Writing CSS
   - 37 - Writing CSS: inside HTML with style
